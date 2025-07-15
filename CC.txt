@@ -487,4 +487,3 @@ body::before {
         font-size: 22px;
     }
 }
-.
